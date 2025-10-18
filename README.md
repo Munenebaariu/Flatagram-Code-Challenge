@@ -18,4 +18,4 @@ How It Works
 1.When the page loads, it fetches image and comment data from http://localhost:3000.
 2.The image title, likes, and comments appear on the page.
 3.Clicking the heart increases the like count (on the frontend only).
-4.Submitting a comment adds it to the page dynamically.
+4.Submitting a comment adds it to the page.
