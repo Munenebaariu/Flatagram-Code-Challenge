@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 2rem; }
+#image-container img { max-width: 100%; height: auto; display: block; margin-bottom: 1rem; }
+#likes-row { margin-bottom: 1rem; }
+#like-button { font-size: 1.5rem; background: none; border: none; cursor: pointer; }
+#like-button.liked { color: red; }
+#comments-list { padding-left: 1rem; }
+#comments-list li { cursor: pointer; margin-bottom: 0.5rem; }
